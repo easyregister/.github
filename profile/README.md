@@ -8,7 +8,7 @@
   <a href="https://status.easyregister.it" target="_blank">
     <img src="https://betteruptime.com/status-badges/v1/monitor/9duf.svg">
   </a>
-  <img src="https://wakatime.com/badge/user/a3deb186-50e8-4c35-bcaa-c9e09bde3006/project/afdaf539-35f7-4e18-bf6b-d936b22f1f0c.svg">
+  <img src="https://wakatime.com/badge/user/a3deb186-50e8-4c35-bcaa-c9e09bde3006/project/ba149762-ac5e-4a94-ab2c-fccf17290fd5.svg" alt="wakatime">
 </p>
 
 <p align="center">
